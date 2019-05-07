@@ -1,5 +1,5 @@
 {
-  "name": "ionic-academy-package",
+  "name": "academy-package",
   "version": "0.0.1",
   "description": "A Simple Ionic Academy Module",
   "main": "./dist/index.js",
@@ -14,10 +14,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/saimon24/ionic-academy-module.git"
+    "url": "git+https://github.com/chaitanyaymr/PackageEx.git"
   },
   "keywords": [],
-  "author": "chaitnayaymr",
+  "author": "chaitanyaymr",
   "license": "MIT",
   "homepage": "https://ionicacademy.com",
   "devDependencies": {
